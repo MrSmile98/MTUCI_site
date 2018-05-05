@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+div
+{
+	display: block;
+}
+.logo
+{
+	margin:0px;
+}
+.menu-box {
+    border: 1px solid rgb(185, 185, 185);
+    position: relative;
+	padding: 0px;
+	margin:0px;
+	top: 100px;
+	text-align: center;
+	border-radius: 5px
+}
+.menu-list-container
+{
+	padding: 50px;
+}
+/*ul li */
+.main-list 
+{
+	display: grid;
+	grid-template-columns: repeat(6,auto);
+	z-index: 2;
+	margin:  auto;
+/*	margin-left: 40px;
+	display: inline-flex;*/
+}
+.box 
+{
+	margin-right: 20px;
+}

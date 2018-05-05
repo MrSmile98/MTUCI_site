@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href= "css/style.css" type = "text/css" charset="utf-8">
+<title>Справка</title>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/click.js"></script>
+</head>
+
+<body>
+<div  class = "wrapper">
+<h1 class="h1" style="text-align: center">  Главное окно</h1>
+<div class = "body">
+	<div class= "block-aside-list">
+		<aside>
+			<ul class ="border-aside">
+				<li class ="first"> Главное окно</li>
+				<li class ="second"> Загрузка видеозаписей</li>
+				<li class ="third"> Выбор точек слежения</li>
+				<li class ="fourth"> Отображение результата слежения</li>
+				<li class ="fifth"> Расчет скорости и ускорения</li>
+				<li class ="sixth"> Настройка масштаба</li>
+				<li class ="seventh"> Сохранение результатов</li>
+			</ul>
+		</aside>	
+	</div>
+		<div class= "content">
+			<div class = "text">
+			Главное окно пользовательского интерфейса, изображенное на рис.1, содержит панель меню, панель быстрого доступа, навигационную панель, рабочее пространство для размещения видеозаписей и диаграмм. Через панель меню осуществляется загрузка видеозаписей, сохранение результатов работы программы, перемотка активной видеозаписи и слежение за точками, добавление и удаление точек слежения, добавление диаграмм, отражающих траекторию, скорость и ускорение точек, настройка скорости воспроизведения видеозаписи и масштабирование. Навигационная панель позволяет удалять, скрывать и отображать видеозаписи и диаграммы на рабочем пространстве, а также выбирать активную видеозапись.
+		</div>	
+		<div class= "image">
+			
+		</div>	
+	</div>
+	
+</div>
+	
+</div>
+<div class="hidden">
+	<div class= "isecond">
+		<img  src="../FAQ/image/second.PNG" width="700px">			
+	</div>
+	<div class= "ithird">
+		<img  src="../FAQ/image/third.PNG" width="700px">			
+	</div>
+	<div class= "ifourth">
+		<img  src="../FAQ/image/fourth.PNG" width="700px">				
+	</div>
+		
+</div>
+</body>
+</html>
